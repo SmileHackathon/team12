@@ -1920,6 +1920,7 @@ id auto
 id autoComplete
 id autoCompleteToEnd
 id autoCompleteToStart
+id background
 id barrier
 id baseline
 id beginOnFirstDraw
@@ -1971,6 +1972,7 @@ id custom
 id customPanel
 id cut
 id date_picker_actions
+id day_textview
 id decelerate
 id decelerateAndComplete
 id decor_content_parent
@@ -2065,6 +2067,7 @@ id leftToRight
 id legacy
 id line1
 id line3
+id line_view
 id linear
 id listMode
 id list_item
@@ -2258,8 +2261,6 @@ id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
 id textTop
-id textView
-id textView2
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
@@ -2306,6 +2307,7 @@ id wrap_content
 id wrap_content_constrained
 id x_left
 id x_right
+id yoteiadd_button
 id zero_corner_chip
 integer abc_config_activityDefaultDur
 integer abc_config_activityShortDur
