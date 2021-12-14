@@ -1,0 +1,2 @@
+com/example/smidule/BuildConfig.java
+ com.example.smidule.BuildConfig
