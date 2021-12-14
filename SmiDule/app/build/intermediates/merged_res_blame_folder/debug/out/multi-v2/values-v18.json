@@ -1,10 +1,17 @@
 {
     "logs": [
         {
+<<<<<<< HEAD
+            "outputFile": "C:\\Users\\mnao2\\AndroidStudioProjects\\team12\\SmiDule\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v18\\values-v18.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\mnao2\\.gradle\\caches\\transforms-3\\6ddbc6253b8055a13665a56b11e6556d\\transformed\\appcompat-1.4.0\\res\\values-v18\\values-v18.xml",
+=======
             "outputFile": "C:\\Users\\mugin\\AndroidStudioProjects\\team12\\SmiDule\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v18\\values-v18.xml",
             "map": [
                 {
                     "source": "C:\\Users\\mugin\\.gradle\\caches\\transforms-3\\678f8f90516713ab9a21055c8d2ba99f\\transformed\\appcompat-1.4.0\\res\\values-v18\\values-v18.xml",
+>>>>>>> eb3b15db105ca30517ed8b55c1a55dfd16f0118c
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

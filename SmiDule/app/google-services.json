@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "730838244912",
+    "project_id": "smidule-e607e",
+    "storage_bucket": "smidule-e607e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730838244912:android:f91bd4b766172426a357f5",
+        "android_client_info": {
+          "package_name": "com.example.smidule"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730838244912-74j0hmnbuqhr2vv48c7jevcbols5b7l3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzmtrEgK2woQwu6OB_z-RGT7mnZimSB1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730838244912-74j0hmnbuqhr2vv48c7jevcbols5b7l3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

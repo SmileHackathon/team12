@@ -10,6 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.SmiDule">
         <activity
+            android:name=".BaseTravelData"
+            android:exported="false" />
+        <activity
+            android:name=".TravelAdd"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
