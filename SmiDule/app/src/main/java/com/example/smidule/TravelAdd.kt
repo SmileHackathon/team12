@@ -79,7 +79,7 @@ class TravelAdd : AppCompatActivity() {
         database.getReference(title).setValue(null);
     }
 
-    private fun add(title : String, s : Sche_Stracture){
+    private fun add(title : String, s : Sche_Stgit push origin traveladdracture){
         val database = FirebaseDatabase.getInstance()
         val ref = database.getReference(title)
         ref.setValue(s)
