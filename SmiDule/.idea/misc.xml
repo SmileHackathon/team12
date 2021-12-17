@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/mugin/AndroidStudioProjects/team12/SmiDule/app/src/main/res/layout/activity_main.xml" value="0.10005015045135406" />
+        <entry key="..\:/Users/mugin/AndroidStudioProjects/team12/SmiDule/app/src/main/res/layout/activity_main.xml" value="0.16" />
+        <entry key="..\:/Users/mugin/AndroidStudioProjects/team12/SmiDule/app/src/main/res/layout/activity_photo_shere.xml" value="0.1" />
+        <entry key="..\:/Users/mugin/AndroidStudioProjects/team12/SmiDule/app/src/main/res/layout/photo_view.xml" value="0.20512820512820512" />
       </map>
     </option>
   </component>

@@ -20,6 +20,9 @@
         android:testOnly="true"
         android:theme="@style/Theme.SmiDule" >
         <activity
+            android:name="com.example.smidule.photoShere"
+            android:exported="false" />
+        <activity
             android:name="com.example.smidule.MainActivity"
             android:exported="true" >
             <intent-filter>

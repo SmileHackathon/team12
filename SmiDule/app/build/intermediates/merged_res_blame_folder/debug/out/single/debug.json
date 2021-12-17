@@ -1,15 +1,15 @@
 [
     {
-        "merged": "C:\\Users\\mugin\\AndroidStudioProjects\\team12\\SmiDule\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\mugin\\AndroidStudioProjects\\team12\\SmiDule\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\mugin\\AndroidStudioProjects\\team12\\SmiDule\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\mugin\\AndroidStudioProjects\\team12\\SmiDule\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
         "merged": "C:\\Users\\mugin\\AndroidStudioProjects\\team12\\SmiDule\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\mugin\\AndroidStudioProjects\\team12\\SmiDule\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\mugin\\AndroidStudioProjects\\team12\\SmiDule\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\mugin\\AndroidStudioProjects\\team12\\SmiDule\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\mugin\\AndroidStudioProjects\\team12\\SmiDule\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\mugin\\AndroidStudioProjects\\team12\\SmiDule\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
         "merged": "C:\\Users\\mugin\\AndroidStudioProjects\\team12\\SmiDule\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
@@ -26,6 +26,10 @@
     {
         "merged": "C:\\Users\\mugin\\AndroidStudioProjects\\team12\\SmiDule\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
         "source": "C:\\Users\\mugin\\AndroidStudioProjects\\team12\\SmiDule\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\mugin\\AndroidStudioProjects\\team12\\SmiDule\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_photo_shere.xml.flat",
+        "source": "C:\\Users\\mugin\\AndroidStudioProjects\\team12\\SmiDule\\app\\src\\main\\res\\layout\\activity_photo_shere.xml"
     },
     {
         "merged": "C:\\Users\\mugin\\AndroidStudioProjects\\team12\\SmiDule\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",

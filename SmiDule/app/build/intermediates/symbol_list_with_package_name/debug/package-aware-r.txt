@@ -2160,6 +2160,8 @@ id path
 id pathRelative
 id peekHeight
 id percent
+id photoadd_button
+id phototitle_textview
 id pin
 id position
 id postLayout
@@ -2300,6 +2302,8 @@ id view_tree_view_model_store_owner
 id visible
 id visible_removing_fragment_view_tag
 id west
+id when_textview
+id where_textview
 id withText
 id withinBounds
 id wrap
@@ -2377,6 +2381,7 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_main
+layout activity_photo_shere
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog

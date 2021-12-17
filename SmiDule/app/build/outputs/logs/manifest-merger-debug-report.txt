@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\mugin\AndroidStudioProjects\team12\SmiDule\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from C:\Users\mugin\AndroidStudioProjects\team12\SmiDule\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from C:\Users\mugin\AndroidStudioProjects\team12\SmiDule\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from C:\Users\mugin\AndroidStudioProjects\team12\SmiDule\app\src\main\AndroidManifest.xml:2:1-23:12
+ADDED from C:\Users\mugin\AndroidStudioProjects\team12\SmiDule\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\mugin\AndroidStudioProjects\team12\SmiDule\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\mugin\AndroidStudioProjects\team12\SmiDule\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\mugin\AndroidStudioProjects\team12\SmiDule\app\src\main\AndroidManifest.xml:2:1-26:12
 MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\mugin\.gradle\caches\transforms-3\edeb02fb4cefd454699890f987ffc29f\transformed\jetified-core-ktx-1.7.0\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\mugin\.gradle\caches\transforms-3\18d14ff6081cdd4d7e524a53938b4251\transformed\material-1.4.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] C:\Users\mugin\.gradle\caches\transforms-3\408aa2c6bc6d127e4ffa32f46b3d735b\transformed\constraintlayout-2.1.2\AndroidManifest.xml:2:1-11:12
@@ -44,25 +44,25 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\mugin\.gradle\ca
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\mugin\.gradle\caches\transforms-3\a3069b0cb7bf77d0867ce0b7cd7f4984\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\mugin\.gradle\caches\transforms-3\084d9626b7e6e1bb6f4b7736011c1b83\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\mugin\.gradle\caches\transforms-3\c834ac66386d7ab1cc0524445ed4065d\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\mugin\AndroidStudioProjects\team12\SmiDule\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from C:\Users\mugin\AndroidStudioProjects\team12\SmiDule\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from C:\Users\mugin\AndroidStudioProjects\team12\SmiDule\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\mugin\AndroidStudioProjects\team12\SmiDule\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\mugin\AndroidStudioProjects\team12\SmiDule\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\mugin\AndroidStudioProjects\team12\SmiDule\app\src\main\AndroidManifest.xml:2:1-26:12
 	package
 		ADDED from C:\Users\mugin\AndroidStudioProjects\team12\SmiDule\app\src\main\AndroidManifest.xml:3:5-34
 		INJECTED from C:\Users\mugin\AndroidStudioProjects\team12\SmiDule\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\mugin\AndroidStudioProjects\team12\SmiDule\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\mugin\AndroidStudioProjects\team12\SmiDule\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\mugin\AndroidStudioProjects\team12\SmiDule\app\src\main\AndroidManifest.xml:2:1-23:12
+		ADDED from C:\Users\mugin\AndroidStudioProjects\team12\SmiDule\app\src\main\AndroidManifest.xml:2:1-26:12
 		INJECTED from C:\Users\mugin\AndroidStudioProjects\team12\SmiDule\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\mugin\AndroidStudioProjects\team12\SmiDule\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\mugin\AndroidStudioProjects\team12\SmiDule\app\src\main\AndroidManifest.xml:2:1-23:12
+		ADDED from C:\Users\mugin\AndroidStudioProjects\team12\SmiDule\app\src\main\AndroidManifest.xml:2:1-26:12
 		INJECTED from C:\Users\mugin\AndroidStudioProjects\team12\SmiDule\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\mugin\AndroidStudioProjects\team12\SmiDule\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\mugin\AndroidStudioProjects\team12\SmiDule\app\src\main\AndroidManifest.xml:5:5-21:19
+ADDED from C:\Users\mugin\AndroidStudioProjects\team12\SmiDule\app\src\main\AndroidManifest.xml:5:5-24:19
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\mugin\.gradle\caches\transforms-3\18d14ff6081cdd4d7e524a53938b4251\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\mugin\.gradle\caches\transforms-3\18d14ff6081cdd4d7e524a53938b4251\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] C:\Users\mugin\.gradle\caches\transforms-3\408aa2c6bc6d127e4ffa32f46b3d735b\transformed\constraintlayout-2.1.2\AndroidManifest.xml:9:5-20
@@ -91,22 +91,28 @@ MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\mugin\.gradle\cach
 		ADDED from C:\Users\mugin\AndroidStudioProjects\team12\SmiDule\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
 		ADDED from C:\Users\mugin\AndroidStudioProjects\team12\SmiDule\app\src\main\AndroidManifest.xml:11:9-45
-activity#com.example.smidule.MainActivity
-ADDED from C:\Users\mugin\AndroidStudioProjects\team12\SmiDule\app\src\main\AndroidManifest.xml:12:9-20:20
+activity#com.example.smidule.photoShere
+ADDED from C:\Users\mugin\AndroidStudioProjects\team12\SmiDule\app\src\main\AndroidManifest.xml:12:9-14:40
 	android:exported
-		ADDED from C:\Users\mugin\AndroidStudioProjects\team12\SmiDule\app\src\main\AndroidManifest.xml:14:13-36
+		ADDED from C:\Users\mugin\AndroidStudioProjects\team12\SmiDule\app\src\main\AndroidManifest.xml:14:13-37
 	android:name
-		ADDED from C:\Users\mugin\AndroidStudioProjects\team12\SmiDule\app\src\main\AndroidManifest.xml:13:13-41
+		ADDED from C:\Users\mugin\AndroidStudioProjects\team12\SmiDule\app\src\main\AndroidManifest.xml:13:13-39
+activity#com.example.smidule.MainActivity
+ADDED from C:\Users\mugin\AndroidStudioProjects\team12\SmiDule\app\src\main\AndroidManifest.xml:15:9-23:20
+	android:exported
+		ADDED from C:\Users\mugin\AndroidStudioProjects\team12\SmiDule\app\src\main\AndroidManifest.xml:17:13-36
+	android:name
+		ADDED from C:\Users\mugin\AndroidStudioProjects\team12\SmiDule\app\src\main\AndroidManifest.xml:16:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\mugin\AndroidStudioProjects\team12\SmiDule\app\src\main\AndroidManifest.xml:15:13-19:29
+ADDED from C:\Users\mugin\AndroidStudioProjects\team12\SmiDule\app\src\main\AndroidManifest.xml:18:13-22:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\mugin\AndroidStudioProjects\team12\SmiDule\app\src\main\AndroidManifest.xml:16:17-69
+ADDED from C:\Users\mugin\AndroidStudioProjects\team12\SmiDule\app\src\main\AndroidManifest.xml:19:17-69
 	android:name
-		ADDED from C:\Users\mugin\AndroidStudioProjects\team12\SmiDule\app\src\main\AndroidManifest.xml:16:25-66
+		ADDED from C:\Users\mugin\AndroidStudioProjects\team12\SmiDule\app\src\main\AndroidManifest.xml:19:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\mugin\AndroidStudioProjects\team12\SmiDule\app\src\main\AndroidManifest.xml:18:17-77
+ADDED from C:\Users\mugin\AndroidStudioProjects\team12\SmiDule\app\src\main\AndroidManifest.xml:21:17-77
 	android:name
-		ADDED from C:\Users\mugin\AndroidStudioProjects\team12\SmiDule\app\src\main\AndroidManifest.xml:18:27-74
+		ADDED from C:\Users\mugin\AndroidStudioProjects\team12\SmiDule\app\src\main\AndroidManifest.xml:21:27-74
 uses-sdk
 INJECTED from C:\Users\mugin\AndroidStudioProjects\team12\SmiDule\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\mugin\AndroidStudioProjects\team12\SmiDule\app\src\main\AndroidManifest.xml
